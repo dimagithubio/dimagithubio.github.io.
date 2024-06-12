@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    border: 0;
+    background-color: black;
+}
+
+header {
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: -21px;
+}
+
+h1 {
+    background-image: url("https://images.wallpaperscraft.ru/image/single/zvezdnoe_nebo_zvezdy_chernyj_118255_1600x1200.jpg");
+}
+
+.ava {
+    border-radius: 50%;
+}
+
+.social {
+    text-align: left;
+    vertical-align: top;
+} 
+
+.underline {
+    text-decoration: underline;
+}
+
+main {
+    background-color: #020305;
+    color: white;
+    margin-top: -3px;
+    padding-bottom: 30px;
+}
+
+.firstline {
+    background-color: yellow;
+    font-size: 10px;
+}
+
+.notes {
+    font-size: 25px;
+}
+
+.plot {
+    font-size: 20px;
+}
+
+.zadan {
+    margin-top: -20px;
+}
+
+.ul1 {
+    font-size: 15px;
+}
+
+.sylka {
+    color: yellow;
+}
+
+aside {
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: yellow;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    padding: 50px;
+    background-image: url("https://wallbox.ru/wallpapers/main2/201717/priroda-lepestki-romaska-zeltaa.jpg");
+}
+
+footer {
+    margin-top: -18px;
+}
+
+.black {
+    background-color: black;
+    margin-top: -13px;
+}

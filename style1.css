@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+.underline {
+    text-decoration: underline;
+    font-size: x-large;
+    color: black;
+    background-color: yellow;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: white;
+}
+
+.plot {
+    color: white;
+}
+
+aside {
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: yellow;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    padding: 25px;
+    background-image: url("https://wallbox.ru/wallpapers/main2/201717/priroda-lepestki-romaska-zeltaa.jpg");
+}
+
+footer {
+    margin-top: -18px;
+}
+
+.black {
+    background-color: black;
+    margin-top: -13px;
+}
+
+.firstline {
+    background-color: yellow;
+    font-size: 10px;
+}
+
+main {
+    background-color: #020305;
+    color: white;
+    margin-top: -3px;
+    padding-bottom: 30px;
+}
+
+.center {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.navigationphoto {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
